@@ -1,5 +1,10 @@
 # OKST56 DB Editor (Beta)
 
+## 🚀 Download (Beta)
+
+👉 **[Download OKST56 DB Editor v0.3.1 (ZIP)](../../releases/latest)**
+
+
 A desktop database editor for **NCAA Football 14** save files.
 
 This tool is designed to make dynasty and roster editing easier by allowing
