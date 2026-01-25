@@ -2,7 +2,7 @@
 
 ## 🚀 Download (Beta)
 
-👉 **[Download OKST56 DB Editor v0.3.1 (ZIP)](../../releases/latest)**
+👉 **[Download OKST56 DB Editor (ZIP)](../../releases/latest)**
 
 
 A desktop database editor for **NCAA Football 14** save files.
@@ -23,7 +23,7 @@ This is a **beta release**.
 
 ---
 
-## Current Features (Beta 0.3.1)
+## Current Features (Beta 0.3.2)
 
 - Open decrypted PS3 NCAA 14 save files (`.MC02`)
 - Browse database tables
