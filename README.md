@@ -219,5 +219,6 @@ What tab you were on
 What season stage you were in
 Take screenshots and/or video of issues, have a dynasty save ready to share or csv export
 
+If you don’t see the download, click **Releases** on the right side of this page and select the latest version.
 
 #GoPokes
