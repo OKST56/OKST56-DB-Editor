@@ -64,13 +64,24 @@ This is a **beta release**.
 
 ---
 
-## Feedback & Bug Reports
+## 🐞 Bug Reports & Feedback
+
+Please report bugs and request features using **GitHub Issues**:
+
+👉 https://github.com/OKST56/OKST56-DB-Editor/issues 
+OR
+👉 College Football Revamped Discord Server https://discord.com/invite/cfbr (OKST56 DB Editor)
 
 Please report:
 - Crashes
 - Incorrect data saves
 - UI issues
 - Feature requests
+
+Include:
+- What tab you were on
+- What season stage the dynasty was in
+- Steps to reproduce the issue
 
 Use **GitHub Issues** or contact via College Football Revamped Discord Server https://discord.com/invite/cfbr
 
