@@ -1,6 +1,6 @@
 # OKST56 DB Editor (Beta)
 
-## 🚀 Download (Beta)
+## Download (Beta)
 
 👉 **[Download OKST56 DB Editor (ZIP)](../../releases/latest)**
 
